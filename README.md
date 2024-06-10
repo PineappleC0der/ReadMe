@@ -8,6 +8,7 @@ Email:<a href='mailto:your.email@example.com'>@cadenjshurter99@gbstu.org</a>
 * No work experience.
 * 3 years of coding, Java, Block, and Python.
 
+
 # Education
 ## Grand Blanc High School, Grand Blanc
 *September 2020 - Present*
