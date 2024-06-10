@@ -6,7 +6,7 @@ Resume
 - 👯 I’m looking to collaborate on nothing at the moment
 - 🤔 I’m looking for help with nothing, I'm a smarty 
 - 💬 Ask me about video games
-- 📫 How to reach me: <a href='mailto:your.email@example.com'>your.email@cadenjshurter99@gbstu.org</a>
+- 📫 How to reach me: <a href='mailto:your.email@example.com'>@cadenjshurter99@gbstu.org</a>
 </p>
 
 - 😄 Pronouns: he/him or whatever
