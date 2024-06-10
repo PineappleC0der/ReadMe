@@ -1,21 +1,14 @@
 # ReadMe
 Resume
-# Hi There
-- I’m currently working on finishing up high school
-- I’m currently learning engineering and coding
-- I’m looking to collaborate on nothing at the moment
-- I’m looking for help with nothing, I'm a smarty 
-- Ask me about video games
-- 📫 How to reach me: <a href='mailto:your.email@example.com'>@cadenjshurter99@gbstu.org</a>
+Email:<a href='mailto:your.email@example.com'>@cadenjshurter99@gbstu.org</a>
 </p>
 
-- 😄 Pronouns: he/him or whatever
-- ⚡ Fun fact: My bones are made of pure steel
+## Experience
+No work experience
 
 
 
-
-## 🛠 Technology Stack
+## Technology Stack
 * Java
 
 <p align='center'>
