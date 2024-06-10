@@ -15,8 +15,15 @@ Email:<a href='mailto:your.email@example.com'>@cadenjshurter99@gbstu.org</a>
 * Certified for Java via Certiport.
 * Passed AP Coding Courses.
 
-## Technology Stack
-* Java
+
+# Projects
+* https://cloud.snap.berkeley.edu/project?username=pineapplecoder&projectname=Spotlight
+* https://cloud.snap.berkeley.edu/project?username=pineapplecoder&projectname=Side%20Project
+* https://cloud.snap.berkeley.edu/project?username=pineapplecoder&projectname=Happy%20Birthday%20River
+
+
+# Organizations 
+* National Honor Society
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=PineappleC0der&show_icons=true&count_private=true">
