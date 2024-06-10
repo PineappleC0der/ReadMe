@@ -4,13 +4,16 @@ Resume
 Email:<a href='mailto:your.email@example.com'>@cadenjshurter99@gbstu.org</a>
 </p>
 
-## Experience
-*No work experience.
+# Experience
+* No work experience.
 
-*3 years of coding, Java, Block, and Python.
+* 3 years of coding, Java, Block, and Python.
 
-## Education
-
+# Education
+## Grand Blanc High School, Grand Blanc
+*September 2020 - Present*
+* Certified for Java via Certiport.
+* Passed AP Coding Courses.
 
 ## Technology Stack
 * Java
